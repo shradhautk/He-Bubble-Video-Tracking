@@ -1,7 +1,7 @@
 # He-Bubble-Video-Tracking
- This project utilizes advanced computer vision techniques, including Mask R-CNN, to accurately identify and monitor helium-induced bubbles in videos obtained from TEM. Researchers and developers can leverage this resource to enhance material characterization under extreme conditions, ensuring safety and reliability in nuclear environments.
+ This project utilizes advanced computer vision techniques, including Mask R-CNN, to accurately identify and monitor helium-induced bubbles in videos of  irradiated PdNi samples obtained from TEM. Researchers and developers can leverage this resource to enhance material characterization under extreme conditions, ensuring safety and reliability in nuclear environments.
 
- This code is a Python notebook that presents a workflow for performing segmentation analysis of helium (He) bubbles in irradiated PdNi samples using a trained Mask R-CNN (Mask Region-based Convolutional Neural Network) model. The code includes several key steps:
+The code includes several key steps:
 
 Importing necessary Python modules and libraries for image processing, machine learning, and visualization.
 
