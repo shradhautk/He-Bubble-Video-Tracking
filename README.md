@@ -22,6 +22,7 @@ Converting the tracked bubbles into a video, creating a visual representation of
 The code is designed for analyzing He bubbles in transmission electron microscopy (TEM) micrographs of ion-irradiated iron-chromium steel. It uses the Mask R-CNN model to segment and track these bubbles, providing valuable insights into their behavior and movement over time.
 
 Here is the link to tracking of bubbles in video: https://drive.google.com/file/d/1DUdMRt0g9iLTcWlaM2XkHAX1x_V8wkD8/view
+[![Video](https://github.com/shradhautk/He-Bubble-Video-Tracking/assets/101154495/ad8f25f6-2207-47b3-be4c-0e4ab30927f9)](https://youtube.com/shorts/hTLPorkpK7k?feature=share)
 
 
 <video width="320" height="240" controls autoplay>
