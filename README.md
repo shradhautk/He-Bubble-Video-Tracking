@@ -25,6 +25,6 @@ Here is the link to tracking of bubbles in video: https://drive.google.com/file/
 
 
 <video width="320" height="240" controls autoplay>
-    <source src="https://youtube.com/shorts/hTLPorkpK7k?feature=share" type="video/VIDEO_FORMAT_HERE">
+    <source src="https://youtube.com/shorts/hTLPorkpK7k?feature=share" type="video/mp4">
     Your browser does not support the video tag.
 </video>
